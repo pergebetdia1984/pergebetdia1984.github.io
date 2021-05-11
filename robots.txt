@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pergebetdia1984.github.io/sitemap.xml
